@@ -1,0 +1,10 @@
+@media (min-width: 768px) {
+    /* Styles for larger screens */
+    .container {
+        max-width: 640px; /* Adjust as needed */
+    }
+}
+
+/* TODO: Link google font and make font family */
+
+
